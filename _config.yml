@@ -2,9 +2,9 @@ title: Hung Nguyen Huy # your name (or website title) here
 logo: "/images/port.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Ha Noi University of Science and Technology Student 
-  
+ <br>
   AI Engieer 
- 
+ <br>
   <a href="https://www.linkedin.com/in/huyt02/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal
